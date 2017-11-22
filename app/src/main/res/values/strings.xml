@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DNT Medlem</string>
+    <string name="splash_image_description">DNT</string>
+    <string name="no_internet_1">Vi klarte ikke hente dine medlemsdata</string>
+    <string name="no_internet_2">Kontroller tilkoblingen din til internett, og prøv igjen. Etter å ha hentet medlemsdataene første gang, vil du kunne se medlemsdetaljene dine og uten internetttilkobling.</string>
+</resources>
